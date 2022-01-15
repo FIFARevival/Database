@@ -2,5 +2,6 @@
 	"testapp": {
 		"hello": "world",
 		"world": 69
-	}
+	},
+	"512" : "testingmod"
 }
