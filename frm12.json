@@ -1,1 +1,6 @@
-{}
+{
+	"testapp": {
+		"hello": "world",
+		"world": 69
+	}
+}
