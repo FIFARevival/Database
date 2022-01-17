@@ -1,0 +1,22 @@
+{
+  "mods": {
+    "7113": {
+      "name": "Mods 1",
+      "releasedate": "1977-05-13T00:00:00",
+      "version": "0.2",
+      "download": "test.com"
+    },
+    "7114": {
+      "name": "Mods 11",
+      "releasedate": "1977-05-13T00:00:00",
+      "version": "0.9",
+      "download": "test11.com"
+    },
+    "7119": {
+      "name": "Mods 111",
+      "releasedate": "1977-05-13T00:00:00",
+      "version": "4.2",
+      "download": "...."
+    }
+  }
+}
